@@ -14,14 +14,14 @@ PORT     STATE  SERVICE
 8200/tcp closed trivnet1
 8443/tcp open   https-alt
 
-Nmap scan report for 192.168.29.187
+Nmap scan report for 192.168.29.***
 Host is up (0.023s latency).
-All 1000 scanned ports on 192.168.29.187 are in ignored states.
+All 1000 scanned ports on 192.168.29.*** are in ignored states.
 Not shown: 1000 closed tcp ports (reset)
 
-Nmap scan report for 192.168.29.224
+Nmap scan report for 192.168.29.***
 Host is up (0.030s latency).
-All 1000 scanned ports on 192.168.29.224 are in ignored states.
+All 1000 scanned ports on 192.168.29.*** are in ignored states.
 Not shown: 1000 closed tcp ports (reset)
 
 Nmap done: 256 IP addresses (3 hosts up) scanned in 30.27 seconds
